@@ -4,6 +4,7 @@
 
 
 2.Control Flow Graph
+![graph](funk.png)
 
 
 
