@@ -5,5 +5,4 @@
 
 2.Control Flow Graph
 
-![Image](https://github.com/user-attachments/assets/43f025f7-3319-475c-8cb5-ec15e43902a2)
 
